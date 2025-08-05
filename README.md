@@ -1,7 +1,10 @@
 <!-- Banner GIF -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Abdallahsame7/Abdallahsame7/main/assets/abdallah_sameh_banner" alt="Abdallah Sameh Banner" />
+  <img src="https://raw.githubusercontent.com/Abdallahsame7/Abdallahsame7/main/assets/abdallah_sameh_neon_banner_animated.gif" 
+       alt="Abdallah Sameh Banner" 
+       width="800" height="450" />
 </p>
+
 
 
 ---
