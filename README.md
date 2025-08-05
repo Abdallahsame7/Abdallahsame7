@@ -33,6 +33,10 @@ Always curious and continuously learning new technologies to level up in the wor
 ![Pandas](https://img.shields.io/badge/-Pandas-181717?&logo=pandas)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-181717?&logo=Matplotlib)
 
+### 📬 Contact Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-181717?&logo=Linkedin)](https://www.linkedin.com/in/abdallah-sameh-1a22a4274/)
+[![Gmail](https://img.shields.io/badge/-Gmail-181717?&logo=Gmail)](abdallahsameh7h@gmail.com)
 
 ---
 
