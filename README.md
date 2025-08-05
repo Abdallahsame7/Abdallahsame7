@@ -1,6 +1,6 @@
 <!-- Banner GIF -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Abdallahsame7/Abdallahsame7/main/assets/banner.gif" alt="Abdallah Sameh Banner" />
+  <img src="https://raw.githubusercontent.com/Abdallahsame7/Abdallahsame7/main/assets/abdallah_sameh_banner" alt="Abdallah Sameh Banner" />
 </p>
 
 
