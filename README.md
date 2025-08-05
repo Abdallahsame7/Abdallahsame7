@@ -1,39 +1,53 @@
-[![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Abdallah+Sameh;Software+Engineering+Student;Flutter+%7C+Firebase+%7C+Python+Enthusiast;Building+Mobile+Apps+with+Passion)](https://github.com/AbdallahSameh)
+<!-- Banner GIF -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Abdallahsame7/Abdallahsame7/main/assets/banner.gif" alt="Abdallah Sameh Banner" />
+</p>
+
 
 ---
 
-### Languages
+## 👋 About Me
 
-![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart&logoColor=0175C2)
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=SQLite)
-
-### Technologies
-
-![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter)
-![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
-![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma)
-
-### Flutter Projects
-
-[![](https://img.shields.io/badge/-📸%20Instagram%20Clone-000)](https://github.com/AbdallahSameh/Instagram-Clone)
-[![](https://img.shields.io/badge/-📝%20Notes%20App-000)](https://github.com/AbdallahSameh/Notes-App)
-[![](https://img.shields.io/badge/-🛒%20E-Commerce%20App-000)](https://github.com/AbdallahSameh/E-Commerce-App)
+Hi, I'm **Abdallah Sameh** — a passionate **Software Engineering Student** who crafts beautiful **Flutter Apps** with **Firebase backends**.  
+I enjoy transforming ideas into functional mobile applications, blending **clean code** with **creative UI/UX designs**.  
+Always curious and continuously learning new technologies to level up in the world of **mobile development**.
 
 ---
 
-### About Me
+## 🛠 Languages & Technologies
 
-Hi! I'm **Abdallah Sameh**, a passionate **Software Engineering student** who loves creating mobile applications using **Flutter** and **Firebase**. I enjoy bringing ideas to life through coding and designing seamless user experiences. Currently, I'm focusing on building full-featured Flutter applications, and always learning new technologies to enhance my skills. 
+### 💻 Languages
+![Dart](https://img.shields.io/badge/-Dart-181717?&logo=Dart)
+![Python](https://img.shields.io/badge/-Python-181717?&logo=Python)
+![Java](https://img.shields.io/badge/-Java-181717?&logo=Java)
+![SQLite](https://img.shields.io/badge/-SQLite-181717?&logo=SQLite)
 
-When I’m not coding, I like to explore Linux systems and stay updated with the latest trends in mobile app development.
+### 🛠 Technologies
+![Flutter](https://img.shields.io/badge/-Flutter-181717?&logo=Flutter)
+![Firebase](https://img.shields.io/badge/-Firebase-181717?&logo=Firebase)
+![Linux](https://img.shields.io/badge/-Linux-181717?&logo=Linux)
+![Git](https://img.shields.io/badge/-Git-181717?&logo=Git)
+![Figma](https://img.shields.io/badge/-Figma-181717?&logo=Figma)
+
+### 📊 Data Tools
+![Pandas](https://img.shields.io/badge/-Pandas-181717?&logo=pandas)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-181717?&logo=Matplotlib)
+
 
 ---
 
-<a href="https://github.com/AbdallahSameh">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=AbdallahSameh&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdallahSameh&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+## 📱 Flutter Projects
+
+[![](https://img.shields.io/badge/-📸%20Instagram%20Clone-181717)](https://github.com/AbdallahSameh/Instagram-Clone)
+[![](https://img.shields.io/badge/-📝%20Notes%20App-181717)](https://github.com/AbdallahSameh/Notes-App)
+[![](https://img.shields.io/badge/-🛒%20E-Commerce%20App-181717)](https://github.com/AbdallahSameh/E-Commerce-App)
+
+---
+
+## 📊 GitHub Stats
+
+<a href="https://github.com/Abdallahsame7">
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=Abdallahsame7&show_icons=true&theme=radical&count_private=true" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdallahsame7&layout=compact&theme=radical" />
 </a>
+
