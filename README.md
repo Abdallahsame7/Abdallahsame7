@@ -36,7 +36,7 @@ Always curious and continuously learning new technologies to level up in the wor
 ### 📬 Contact Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-181717?&logo=Linkedin)](https://www.linkedin.com/in/abdallah-sameh-1a22a4274/)
-[![Gmail](https://img.shields.io/badge/-Gmail-181717?&logo=Gmail)](abdallahsameh7h@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-181717?&logo=Gmail)](mailto:abdallahsameh7h@gmail.com)
 
 ---
 
